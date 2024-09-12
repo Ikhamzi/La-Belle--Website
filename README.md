@@ -34,6 +34,7 @@ The admin page is designed to be intuitive and easy to navigate, with clear head
 The website uses a clean and modern design aesthetic, with a consistent color scheme and typography throughout.
 
 
+
 Technical Requirements:
 
 Programming language: PHP
@@ -47,6 +48,7 @@ Server-side scripting: PHP
 Database connection: PHP
 
 
+
 Functional Requirements:
 
 The website must store client enquiries in a secure database.
@@ -58,6 +60,7 @@ The website must provide search and filter functionality for administrators.
 The website must allow administrators to update the status of each enquiry.
 
 The website must provide export functionality for enquiry data in CSV or PDF format.
+
 
 
 Non-Functional Requirements:
