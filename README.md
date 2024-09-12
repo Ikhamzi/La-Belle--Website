@@ -1,5 +1,5 @@
 # La-Belle--Website
-This website provides a simple and efficient way for clients to submit their enquiries through a user-friendly form. The website stores the enquiry forms in a database and allows administrators to view and manage the submissions from an admin page.
+This website provides a simple and efficient way for clients to submit their enquiries through a user-friendly form. The website stores the enquiry forms in a database and allows administrators to view and manage the submissions from an admin page./n
 Key Features:/n
 
 Client Enquiry Form: A secure and easy-to-use form that clients can fill out to submit their enquiries. The form includes fields for collecting client information such as name, email, phone number, and message./n
